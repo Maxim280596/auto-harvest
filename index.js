@@ -37,6 +37,7 @@ const autoCompaund = async () => {
     console.log(error)
   })
 
+  
   console.log("done with all things");
 
 }
